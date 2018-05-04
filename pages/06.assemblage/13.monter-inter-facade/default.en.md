@@ -1,20 +1,22 @@
-# Fasten the switch to the front side of the casing
+---
+title: 'Fasten the switch to the front side of the casing'
+---
 
 ## Equipment needed
 - Pliers
 - Switch
 - Front of casing
 
-![](../assets/_MG_5282.JPG)
+![](_MG_5282.JPG)
 
 ## Assembly
 
 1. Place the rubber seal on the switch. The seal needs to be outside, not inside, the casing.    
-    ![](../assets/_MG_5284.JPG)  
+    ![](_MG_5284.JPG)  
 2. Position the switch as indicated in the photo. Correctly identify the inside and outside of the casing by locating foolproof device (two pins). Then tighten the metal washer using the pliers to correctly fasten the switch.     
-    ![](../assets/_MG_5285.JPG)  
+    ![](_MG_5285.JPG)  
 3. The switch, correctly fastened.     
-    ![](../assets/_MG_5286.JPG)  
+    ![](_MG_5286.JPG)  
 
 
 

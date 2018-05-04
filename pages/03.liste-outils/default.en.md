@@ -1,4 +1,6 @@
-# Tools needed
+---
+title: 'Tools needed'
+---
 
 * 2mm Allen key for the M3 screws
 * a cross-head screwdriver
@@ -9,7 +11,7 @@
 * Scissors
 * Flat \(slot\) screwdriver
 * Adhesive self-gripping strip
-* A laser cutter to cut the [KoomBook casing](https://bsf.gitbooks.io/montage-koombook/content/assets/koombook-v.2.1.svg.zip)
+* A laser cutter to cut the [KoomBook casing](https://bsf.gitbooks.io/montage-koombook/contekoombook-v.2.1.svg.zip)
 
 
 

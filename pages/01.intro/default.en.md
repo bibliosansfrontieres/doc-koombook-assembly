@@ -1,4 +1,6 @@
-# The KoomBook
+---
+title: 'The KoomBook'
+---
 
 The KoomBook is a battery-operated device that displays video content, documents, images and on-line courses using a WiFi hotspot.
 
@@ -10,13 +12,5 @@ This tool allows people in areas where there is no internet to nevertheless acce
 
 This guide presents step-by-step instructions on how to assemble a KoomBook.
 
-![](../assets/_MG_5345.JPG)
-![](../assets/_MG_5328.JPG)
-
-### Autors
-
-{% for author in book.authors %}
-  {{ author.name }} 
-{% endfor %}
-
-Last update : {{file.mtime}}
+![](_MG_5345.JPG)
+![](_MG_5328.JPG)
