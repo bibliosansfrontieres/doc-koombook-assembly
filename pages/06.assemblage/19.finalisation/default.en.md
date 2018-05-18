@@ -18,7 +18,8 @@ title: 'Finalise the assembly'
 2. The F1/F2 deck is in position on the housing jacket.     
     ![](_MG_5328.JPG)
 3. Connect the LiPo battery to the white connector in between the USB socket and the round plug. 
->>>> This plug has a foolproof device.    
+>>>> This plug has a foolproof device.
+
     ![](_MG_5334.JPG)
 4. Position the battery as shown in the photo. The F1/F2 deck has a notch to fit the battery in place.     
     ![](_MG_5335.JPG)
