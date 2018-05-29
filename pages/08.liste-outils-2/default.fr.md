@@ -11,7 +11,6 @@ title: 'Liste des outils nécessaires 2'
 * Ciseau
 * Tournevis plat 
 * Bande auto-agrippante auto-adhésive
-* Une découpeuse laser pour découper [le boitier du KoomBook](https://bsf.gitbooks.io/montage-koombook/contekoombook-v.2.2.svg.zip)
 
 
 
