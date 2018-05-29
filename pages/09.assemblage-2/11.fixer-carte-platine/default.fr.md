@@ -1,5 +1,6 @@
 ---
 title: 'Fixer la carte Olimex sur la platine F2'
+media_order: '_MG_5268.JPG,_MG_5269.JPG,_MG_5270.JPG,_MG_5272.JPG,_MG_5274.JPG,P1080946.JPG'
 ---
 
 ## Matériel nécessaire 
@@ -21,4 +22,5 @@ title: 'Fixer la carte Olimex sur la platine F2'
 2. Repérez deux trous vers le slot de la carte SD et vissez les 2 vis blanches afin de fixer la carte à la platine F2  
 ![](_MG_5272.JPG)  
 3. Vu final sur la carte fixé à la platine F2  
-![](_MG_5274.JPG)  
+![](_MG_5274.JPG) 
+![](P1080946.JPG)
