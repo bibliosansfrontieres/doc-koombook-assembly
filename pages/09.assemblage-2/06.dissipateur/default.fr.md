@@ -1,6 +1,7 @@
 ---
 title: 'Coller le dissipateur de chaleur sur le processeur'
 ---
+
 ## Matériel nécessaire 
 * Carte Olimex A20
 * Dissipateur de chaleur auto-collant
