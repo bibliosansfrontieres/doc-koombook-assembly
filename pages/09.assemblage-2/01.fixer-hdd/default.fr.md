@@ -1,5 +1,6 @@
 ---
 title: 'Fixer le disque dur'
+media_order: 'P1080927.JPG,P1080928.JPG,P1080930.JPG,P1080929.JPG'
 ---
 
 ## Matériel nécessaire 
@@ -7,17 +8,17 @@ title: 'Fixer le disque dur'
 * Disque SATA format 2"5
 * 4 vis métal à tête bombée M3x5  
 
-![](IMG_5183.JPG)
+![](P1080927.JPG)
 
 ## Assemblage 
 >>>> orientation du disque dur :  connectique SATA côté court de la platine F1
 
 1. Positionez le disque sur le dos de manière à avoir accès au filtage situé au dos du boitier
 2. Positionez la platine F1 comme représentez sur la photo, à l'envers au dessus du disque   
-![](IMG_5186.JPG)  
+![](P1080928.JPG)
 3. Vissez sans trop forcer, au risque d'abimer le filtage du boitier  
-![](IMG_5189.JPG)  
+
 4. Dessous   
-![](IMG_5190.JPG)  
+![](P1080929.JPG)
 5. Dessus  
-![](IMG_5191.JPG)
+![](P1080930.JPG)
