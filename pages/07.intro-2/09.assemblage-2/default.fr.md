@@ -1,5 +1,5 @@
 ---
-title: 'Assemblage 2'
+title: Assemblage
 ---
 
 Les sous-chapitres ci-dessous décrivent l'assemblage étape par étape.
