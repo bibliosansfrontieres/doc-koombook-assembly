@@ -13,7 +13,7 @@ media_order: 'P1090050.jpg,P1090049.jpg,P1080939.JPG,P1080938.JPG,P1090047.jpg,P
 
 ## Assemblage
 
-1. Insérez une première vis métal par le dessous de la platine F1, puis retournez la platine tout en maintenant la vis à l'aide de votre index
+1. Insérez une première vis métal par le dessous de la platine F1 (la grande platine), puis retournez la platine tout en maintenant la vis à l'aide de votre index
    ![](P1090050.jpg)
 2. Positionnez l'entretoise sur le dessus de la platine F1 juste au dessus de la vis
   ![](P1090049.jpg)
