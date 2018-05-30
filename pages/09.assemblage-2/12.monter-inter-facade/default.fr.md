@@ -1,21 +1,19 @@
 ---
 title: 'Monter l''interrupteur sur la face avant du boitier'
+media_order: 'P1090005.jpg,P1080957.jpg,P1080966.jpg,P1080967.jpg,P1090011.jpg,P1090008.jpg,P1090010.jpg'
 ---
 
 ## Matériel nécessaire 
 * Une pince
 * Interrupteur
-* Face avant du boitier  
+* Face avant du boitier 
 
-![](_MG_5282.JPG)
+![](P1080957.jpg) ![](P1080966.jpg)
 
 ## Assemblage 
 
-1. Positioner le joint en caoutchou sur l'interrupteur. Le joint doit se trouver à l'extérieur du boitier et non à l'intérieur  
-![](_MG_5284.JPG)  
-2. Positionner l'interrupteur, comme présenter sur la photo. Pour ne pas vous trompez entre la face intérieur et extérieur du boitier, repérez le détrompeur sous la forme de 2 picots. Enfin serrez la bague métalique à l'aide d'une pince pour bien fixer l'interrupteur.  
-![](_MG_5285.JPG)  
-3. L'interrupteur en position final  
-![](_MG_5286.JPG)  
 
-
+1. Positionner l'interrupteur, comme présenter sur la photo. Enfin serrez la bague métalique à l'aide d'une pince pour bien fixer l'interrupteur.  
+![](P1090005.jpg) ![](P1090010.jpg)
+2. L'interrupteur en position final  
+![](P1080967.jpg)![](P1090005.jpg)
