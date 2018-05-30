@@ -1,6 +1,7 @@
 ---
-title: 'Le KoomBook'
+title: 'Le KoomBook boitier bois'
 ---
+
 Le KoomBook est un appareil fonctionnant sur batterie et diffusant des contenus vidéos, textes, images, cours en ligne, à l'aide d'un hotspot wifi.
 
 Une interface web intégrée permet à quiconque possédant un ordinateur, une tablette ou un smartphone de s'y connecter et de naviguer à travers les contenus disponible.
