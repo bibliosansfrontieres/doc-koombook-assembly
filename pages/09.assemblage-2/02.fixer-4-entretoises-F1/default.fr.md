@@ -1,6 +1,6 @@
 ---
 title: 'Fixer 4 entretoises de 15mm sur la platine F1'
-media_order: 'P1090050.jpg,_MG_5213.JPG,P1090049.jpg,_MG_5214.JPG,_MG_5215.JPG,P1080939.JPG,P1080938.JPG,P1090047.jpg,P1090045.jpg,P1090048.jpg'
+media_order: 'P1090050.jpg,P1090049.jpg,P1080939.JPG,P1080938.JPG,P1090047.jpg,P1090045.jpg,P1090048.jpg'
 ---
 
 ## Matériel nécessaire
