@@ -17,7 +17,7 @@ title: 'Etamer vos câbles électriques'
 ![](_MG_5253.JPG)  
 2. Déposer un peu d'étain sur la panne (embout) du fer à souder. Chauffer l'extrémité dénudée du fil avec le fer à souder. Déposer un peu d'étain sur l'extrémité encore chaude pour que l'étain recouvre bien le fil  
 ![](_MG_5254.JPG)  
->>>> il ne faut pas faire chauffer trop longtemps l'étain au risque de le faire brûler.
+>>>> Il ne faut pas faire chauffer trop longtemps l'étain au risque de le faire brûler.
 Utiliser le moins d'étain possible et effectuez l'opération dans un local bien ventilé.  
 
 3. Reproduire l'opération pour les 2 extrémitées des 3 fils  
