@@ -1,6 +1,6 @@
 ---
 title: 'Fixer la carte Olimex sur la platine F2'
-media_order: '_MG_5268.JPG,_MG_5269.JPG,_MG_5270.JPG,_MG_5272.JPG,_MG_5274.JPG,P1080946.JPG'
+media_order: '_MG_5268.JPG,_MG_5269.JPG,P1090026.jpg,_MG_5270.JPG,_MG_5272.JPG,_MG_5274.JPG,P1080946.JPG,P1090025.jpg'
 ---
 
 ## Matériel nécessaire 
@@ -9,18 +9,11 @@ media_order: '_MG_5268.JPG,_MG_5269.JPG,_MG_5270.JPG,_MG_5272.JPG,_MG_5274.JPG,P
 * 2 vis blanches plastique M3x10  
 
 
-![](_MG_5268.JPG)  
-
+![](P1090026.jpg)
 
  ## Assemblage 
  
-1. Positionner les encoches de la carte Olimex entre les entretoises de 15mm, dissipateur de chaleur face au disque  
-![](_MG_5270.JPG)  
->>> Les entretoises étant héxagonal, il est possible que vous rencontrés des difficultés pour positionner la carte sur la platine F2, l'astuce consiste à faire pivoter à l'aide d'une pince les entretoises jusqu'à ce qu'elles soient parrallèle aux encoches de la cartes.  
-
-![](_MG_5269.JPG)  
-2. Repérez deux trous vers le slot de la carte SD et vissez les 2 vis blanches afin de fixer la carte à la platine F2  
-![](_MG_5272.JPG)  
+1. Positionnez le disspateur de chaleur face à au disque et les quatre trous face aux entretoises. Puis vissez les 4 vis blanches afin de fixer la carte à la platine F2  
+![](P1090025.JPG) 
 3. Vu final sur la carte fixé à la platine F2  
-![](_MG_5274.JPG) 
 ![](P1080946.JPG)
