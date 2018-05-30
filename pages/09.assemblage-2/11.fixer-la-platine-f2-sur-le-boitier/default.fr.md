@@ -1,5 +1,5 @@
 ---
-title: 'Fixer la platine F2 sur le boitier'
+title: 'Fixer la platine F1 sur le boitier'
 media_order: 'P1080965.jpg,P1090024.jpg,P1090023.jpg,P1080964.jpg,P1080963.jpg'
 ---
 
