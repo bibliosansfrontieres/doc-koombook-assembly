@@ -8,4 +8,4 @@ media_order: P1080984.jpg
 3. Puis les 2 dongles Wifi à insérer dans les 2 connecteurs USB  
 4.Insérer la carte SD 
 4. Vu final sur avec les câbles connectés 
-![](_MG_5325.JPG)  
+![](_MG_5325.jpg)  
