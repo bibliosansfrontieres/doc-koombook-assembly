@@ -1,6 +1,6 @@
 ---
 title: 'Connecter les câbles SATA et d''alimentation au disque dur'
-media_order: 'P1080944.JPG,_MG_5235.JPG,_MG_5237.JPG,_MG_5238.JPG,_MG_5239.JPG,_MG_5240.JPG,_MG_5241.JPG,_MG_5242.JPG,_MG_5243.JPG,_MG_5244.JPG,P1080945.JPG'
+media_order: 'P1080944.JPG,_MG_5237.JPG,_MG_5238.JPG,_MG_5239.JPG,_MG_5240.JPG,_MG_5241.JPG,_MG_5242.JPG,_MG_5243.JPG,_MG_5244.JPG,P1080945.JPG,P1090030.jpg,P1090031.jpg,P1090032.jpg,P1090033.jpg,P1090034.jpg,P1090035.jpg,P1090036.jpg,P1090037.jpg,P1090038.jpg'
 ---
 
 ## Matériel nécessaire
@@ -9,24 +9,19 @@ media_order: 'P1080944.JPG,_MG_5235.JPG,_MG_5237.JPG,_MG_5238.JPG,_MG_5239.JPG,_
 * Câble d'alimentation \(4 fils : 2 noir, 1 rouge et 1 jaune\)
 * Assemblage de la platine F1 et F2
 
-	![](_MG_5235.JPG)
+	
 
 ## Assemblage
 
 1. Prenez le câble d'alimentation \(connecteur le plus large\) et positionez le face au disque dur. La connectique du câble et du disque possède un détrompeur. Bien vérifier avant de l'enfoncer complétement.
-	![](_MG_5237.JPG)	
+	![](P1090038.JPG)
 2. Une fois que vous avez trouvé le bon sens enfoncé le complètement.
-	![](_MG_5238.JPG)
-	![](_MG_5239.JPG)
+	![](P1090037.JPG)![](P1090036.JPG)
 3. Répétez l'opération avec le câble SATA rouge
-	![](_MG_5240.JPG)
-	![](_MG_5241.JPG)
-	![](_MG_5242.JPG)
+	![](P1090034.JPG)![](P1090035.JPG)
 4. Le câble d'alimentation et SATA en position final
-	![](_MG_5243.JPG)
+	![](P1090032.JPG)![](P1090031.JPG)
 5. Vu du dessus
-	![](_MG_5244.JPG)
-	![](P1080944.JPG)
-    ![](P1080944.JPG)
+	![](P1090030.JPG)
 
 
