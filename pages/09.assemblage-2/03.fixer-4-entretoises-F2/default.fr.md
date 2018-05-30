@@ -1,6 +1,6 @@
 ---
 title: 'Fixer 4 entretoises de 20mm sur la platine F2'
-media_order: 'P1080940.JPG,_MG_5218.JPG,P1090042.jpg,P1090044.jpg,_MG_5220.JPG,_MG_5221.JPG,P1080941.JPG'
+media_order: 'P1080940.JPG,P1090042.jpg,P1090044.jpg,P1080941.JPG'
 ---
 
 ## Matériel nécessaire
@@ -8,8 +8,6 @@ media_order: 'P1080940.JPG,_MG_5218.JPG,P1090042.jpg,P1090044.jpg,_MG_5220.JPG,_
 * Platine F2
 * 4 vis métal à tête plate M3x10 \(ø3mm, longueur 10mm\)
 * 4 entretoises filetées HEX NYLON 6 FEMELLES 20MM M3
-
-![](_MG_5218.JPG)  
 
 ## Assemblage
 
