@@ -9,12 +9,10 @@ media_order: 'P1080944.JPG,P1080945.JPG,P1090030.jpg,P1090031.jpg,P1090032.jpg,P
 * Câble d'alimentation \(4 fils : 2 noir, 1 rouge et 1 jaune\)
 * Assemblage de la platine F1 et F2
 
-	
-
 ## Assemblage
 
 1. Prenez le câble d'alimentation \(connecteur le plus large\) et positionez le face au disque dur. La connectique du câble et du disque possède un détrompeur. Bien vérifier avant de l'enfoncer complétement.
-	![](P1090038.JPG)
+	![](P1090038.jpg)
 2. Une fois que vous avez trouvé le bon sens enfoncé le complètement.
 	![](P1090037.JPG)![](P1090036.JPG)
 3. Répétez l'opération avec le câble SATA rouge
