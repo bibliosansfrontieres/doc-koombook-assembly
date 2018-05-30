@@ -1,5 +1,5 @@
 ---
-title: 'Le KoomBook 2'
+title: 'Le KoomBook boitier plastique'
 media_order: 'P1080920.JPG,P1080984.JPG'
 ---
 
