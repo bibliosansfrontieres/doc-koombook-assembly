@@ -1,5 +1,5 @@
 ---
-title: 'Liste des outils nécessaires 2'
+title: 'Liste des outils nécessaires'
 media_order: P1090055.jpg
 ---
 
