@@ -15,11 +15,11 @@ media_order: 'P1090017.jpg,P1090015.jpg,P1080969.jpg,P1080968.jpg,P1080970.jpg,P
 ## Assemblage
 
 1. Repérer un connecteur blanc située sour l'interrupteur précédement soudé. Connectez le câble d'alimentation. 
->>>> ce connecteur possède un détrompeur  
+>>>> Ce connecteur possède un détrompeur  
 
 	![](P1090015.jpg)![](P1080968.jpg)
 3. Procéder de la même manière pour le connecteur rouge SATA. 
->>>> ce connecteur possède un détrompeur  
+>>>> Ce connecteur possède un détrompeur  
 
    ![](P1090017.jpg)![](P1090016.jpg)
    ![](P1080969.jpg)
