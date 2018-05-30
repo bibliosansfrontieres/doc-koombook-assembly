@@ -17,6 +17,6 @@ media_order: 'P1080940.JPG,P1090042.jpg,P1090044.jpg,P1080941.JPG'
    ![](P1090042.jpg)
 3. Répétez pour les 3 autres entretoises  
     ![](P1080940.JPG)
-	![](P1080940.JPG)
+	![](P1080941.JPG)
 
 
