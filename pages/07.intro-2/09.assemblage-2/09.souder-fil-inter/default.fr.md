@@ -23,7 +23,7 @@ Vérifier que l'étain ne chevauche pas les deux soudures existantes.
 
 ![](_MG_5261.JPG)  
 
->>>> ne pas faire chauffer trop longtemps les composants de la carte.
+>>>> Ne pas faire chauffer trop longtemps les composants de la carte.
 
 6. Vu sur le dos de la carte avec les 2 fil rouge et noir soudé  
 ![](_MG_5262.JPG)
