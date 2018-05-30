@@ -1,6 +1,6 @@
 ---
 title: 'Fixer la carte Olimex sur la platine F2'
-media_order: '_MG_5268.JPG,_MG_5269.JPG,P1090026.jpg,_MG_5270.JPG,_MG_5272.JPG,_MG_5274.JPG,P1080946.JPG,P1090025.jpg'
+media_order: 'P1080946.JPG,P1090025.jpg,P1090026.jpg'
 ---
 
 ## Matériel nécessaire 
