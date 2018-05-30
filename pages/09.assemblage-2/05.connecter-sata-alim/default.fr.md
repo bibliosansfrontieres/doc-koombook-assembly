@@ -1,6 +1,6 @@
 ---
 title: 'Connecter les câbles SATA et d''alimentation au disque dur'
-media_order: 'P1080944.JPG,_MG_5237.JPG,_MG_5238.JPG,_MG_5239.JPG,_MG_5240.JPG,_MG_5241.JPG,_MG_5242.JPG,_MG_5243.JPG,_MG_5244.JPG,P1080945.JPG,P1090030.jpg,P1090031.jpg,P1090032.jpg,P1090033.jpg,P1090034.jpg,P1090035.jpg,P1090036.jpg,P1090037.jpg,P1090038.jpg'
+media_order: 'P1080944.JPG,P1080945.JPG,P1090030.jpg,P1090031.jpg,P1090032.jpg,P1090033.jpg,P1090034.jpg,P1090035.jpg,P1090036.jpg,P1090037.jpg,P1090038.jpg'
 ---
 
 ## Matériel nécessaire
