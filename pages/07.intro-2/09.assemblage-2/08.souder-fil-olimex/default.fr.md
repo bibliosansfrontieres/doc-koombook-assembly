@@ -15,6 +15,6 @@ title: 'Souder 1 fil sur la carte Olimex'
 ![](_MG_5329.JPG)
 3. Souder le fil rouge sur la broche n°33 du connecteur GPIO-3 de la carte Olimex
 ![](_MG_5331.JPG)
->>>>ne pas faire chauffer trop longtemps les broches lors de la soudure.
+>>>>Ne pas faire chauffer trop longtemps les broches lors de la soudure.
 Vérifier que l'étain ne chevauche pas le broches adjacentes.
 
