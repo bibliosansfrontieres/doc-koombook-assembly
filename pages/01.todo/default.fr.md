@@ -1,6 +1,7 @@
 ---
-title: 'Todo'
+title: Todo
 ---
+
 * Vis M3x5 trop petite - M3x10 trop grande
 * Ajoutez une image représentant l'object pour le matériel nécessaire 
 * Ajoutez une photo pour repérez les interrupteurs sur le dos de la carte Olimex puis les points de soudure 
