@@ -1,5 +1,6 @@
 ---
 title: 'Le KoomBook'
+media_order: '_MG_3187.JPG,IMG_20160521_154615.jpg'
 ---
 
 Le KoomBook est un appareil fonctionnant sur batterie et diffusant des contenus vidéos, textes, images, cours en ligne, à l'aide d'un hotspot wifi.
@@ -12,5 +13,5 @@ Cet outil permet à des populations ne disposant d'aucune connexion Internet d'a
 
 L'objectif de cette documentation est de présenter étape par étape l'assemblage d'un KoomBook
 
-![](_MG_5345.JPG)
-![](_MG_5328.JPG)
+Il existe actuellement 2 version du KoomBook l'une avec un boitier bois, l'autre avec un boitier plastique
+![](_MG_3187.JPG) ![](IMG_20160521_154615.jpg)
