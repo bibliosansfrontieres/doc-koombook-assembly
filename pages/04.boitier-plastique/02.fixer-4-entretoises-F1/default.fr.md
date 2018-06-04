@@ -7,7 +7,7 @@ media_order: 'P1090050.jpg,P1090049.jpg,P1080939.JPG,P1080938.JPG,P1090047.jpg,P
 
 * Platine F1
 * 4 vis métal à tête plate M3x5 \(ø3mm, longueur 5mm\)
-* 4 entretoises filetées HEX NYLON 6 FEMELLES 15MM M3  
+* 4 entretoises filetées HEX NYLON 6 FEMELLES 15MM M3  (les plus petites)
 
 ![](IMG_5192.JPG)
 
