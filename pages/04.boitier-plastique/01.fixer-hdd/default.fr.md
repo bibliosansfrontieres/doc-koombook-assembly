@@ -4,7 +4,7 @@ media_order: 'P1080930.JPG,P1080929.JPG,P1090054.jpg,P1090053.jpg'
 ---
 
 ## Matériel nécessaire 
-* Platine F1
+* Platine F1 (la platine la plus grande)
 * Disque SATA format 2"5
 * 4 vis métal à tête bombée M3x5  
 
