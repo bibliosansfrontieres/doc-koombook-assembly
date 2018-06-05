@@ -12,4 +12,4 @@ media_order: 'P1080987.jpg,P1080988.jpg'
 ## Assemblage
 
 1. Visser le couvercle sur le boitier
-![](P1080987.jpg)![](P1080988.jpg)
+![](P1080987.jpg)![](P1080988.jpg)![](P1090089.jpg)
