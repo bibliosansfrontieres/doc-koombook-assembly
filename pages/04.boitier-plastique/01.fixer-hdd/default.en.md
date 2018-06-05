@@ -17,7 +17,7 @@ title: 'Fasten the hard disk'
 1. Place the disk on its back to have access to threads on the back of the casing
 2. Turn the F1 deck over and place it on top of the disk, as seen in the photo    
     ![](P1090053.jpg)
- Screw together, but do not force, to avoid damaging the casing threads    
+>>>>  Screw together, but do not force, to avoid damaging the casing threads    
  
 3. Underside    
     ![](P1080929.JPG)
