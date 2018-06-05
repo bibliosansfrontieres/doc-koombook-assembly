@@ -8,7 +8,6 @@ title: 'Connect the SATA cables and power cables to the hard disk'
 * Power cable \(4 wires: 2 black, 1 red and 1 yellow\)
 * Assembled F1 and F2 deck
 
-![](_MG_5235.JPG)
 
 ## Assembly
 
