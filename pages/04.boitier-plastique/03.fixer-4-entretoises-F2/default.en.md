@@ -17,6 +17,7 @@ title: 'Fasten 4 20-mm standoffs onto the F2 deck'
     ![](P1090042.jpg)  
 3. Repeat the same steps for the 3 other standoffs.    
     ![](P1080940.jpg)
+    
     ![](P1080941.jpg)
 
 
