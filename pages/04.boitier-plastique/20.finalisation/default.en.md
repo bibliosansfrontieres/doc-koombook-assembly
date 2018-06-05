@@ -13,4 +13,4 @@ title: 'Finalise the assembly'
 1. Screw the top of the case on it.
 ![](P1080987.jpg)
 ![](P1080988.jpg)
-![](P1080989.jpg)
+![](P1090089.jpg)
