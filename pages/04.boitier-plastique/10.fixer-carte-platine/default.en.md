@@ -17,4 +17,4 @@ title: 'Fasten the Olimex card onto the F2 deck'
     ![](P1090058.jpg) 
 
 >>>> Here is an exemple of what not to do.
->>>>  ![](P1080946.jpg) 
+>>>>  ![](P1080946.JPG) 
