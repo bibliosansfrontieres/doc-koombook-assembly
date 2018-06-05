@@ -1,5 +1,5 @@
 ---
-title: 'Connecter les cables'
+title: 'Connecter les câbles'
 media_order: 'P1080984.jpg,P1090088.jpg,P1090086.jpg,P1090087.jpg'
 ---
 
