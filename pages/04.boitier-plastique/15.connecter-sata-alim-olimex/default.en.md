@@ -9,21 +9,18 @@ title: 'Connect the SATA cables and power cables to the Olimex card'
 * A20 Olimex card
 
 >>>> The cables must be connected correctly; forcing ends into the slots could damage the plugs.
+![](P1080970.jpg)
 
 ## Assembly
 
-1. Run the cable under the card, as seen in the photo.      
-    ![](_MG_5276.JPG)  
-2. Find the white connector located under the already welded switch. Connect the power cable. 
+1. Find the white connector located under the already welded switch. Connect the power cable. 
 >>>> The connector has a foolproof device to ensure correct insertion only.
 
-    ![](_MG_5277.JPG)  
-3. Follow the same steps for the red SATA connector. 
+   ![](P1090080.jpg)   
+2. Follow the same steps for the red SATA connectors. 
 >>>>The connector has a foolproof device.    
-
-    ![](_MG_5279.JPG)  
-4. View of the power cable and SATA connector connected to the card.    
-    ![](_MG_5280.JPG)  
-
-
+       
+   ![](P1090017.jpg)   
+   ![](P1090081.jpg)   
+   ![](P1080969.jpg)
 
