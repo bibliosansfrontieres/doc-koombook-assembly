@@ -23,12 +23,12 @@ Here are the parts needed to assemble a KoomBook:
 | ![](2354239-40.jpg) | Micro USB baseplate | Embase Micro Usb Type Ab Traversante | 1 | [Farnell](http://fr.farnell.com/amphenol-commercial-products/musb-k152-30/embase-micro-usb-type-ab-traversante/dp/2354239) |
 | ![](P1060110.JPG) | Standoff | HEX NYLON 6 FEMALE 25MM M3 STANDOFF | 4 | [Farnell](http://fr.farnell.com/tr-fastenings/fahsngffm3-25-6/entretoise-hex-nylon-6-femelle/dp/2480026) |
 | ![](P1060111.JPG) | Standoff | HEX NYLON 6 FEMALE 15MM M3 STANDOFF | 6 | [Farnell](http://fr.farnell.com/tr-fastenings/fahsngffm3-15-6/entretoise-hex-nylon-6-femelle/dp/2480024) |
-| ![](42358728.jpg) | Screws | VIS TETE BOMBEE HEXA M3X5 | 10 | [Farnell](http://fr.farnell.com/tr-fastenings/m35-bhhtmcs100/vis-tete-bombee-hexa-m3x5/dp/1420682) |
-| ![](42358728.jpg) | Screws | VIS TETE BOMBEE HEXA M3X10 | 4 | [Farnell](http://fr.farnell.com/tr-fastenings/m35-bhhtmcs100/vis-tete-bombee-hexa-m3x5/dp/1420682) |
-| ![](2472689-40.jpg) | Screws | TETE PAN PHILIPS, M3 X 10MM | 2 | [Farnell](http://fr.farnell.com/duratool/dtrnse-1207-m3-10/assort-vis-tete-pan-philips-m3/dp/2472705) |
+| ![](42358728.jpg) | Screws | HEXA M3X5 CURVED HEAD SCREW | 10 | [Farnell](http://fr.farnell.com/tr-fastenings/m35-bhhtmcs100/vis-tete-bombee-hexa-m3x5/dp/1420682) |
+| ![](42358728.jpg) | Screws | HEXA M3X10 CURVED HEAD SCREW | 4 | [Farnell](http://fr.farnell.com/tr-fastenings/m35-bhhtmcs100/vis-tete-bombee-hexa-m3x5/dp/1420682) |
+| ![](2472689-40.jpg) | Screws | PHILIPS HEAD PAN, M3 X 10MM | 2 | [Farnell](http://fr.farnell.com/duratool/dtrnse-1207-m3-10/assort-vis-tete-pan-philips-m3/dp/2472705) |
 | ![](42251358.jpg) | Screws | B&F Fastener Supply PMSSS 256 0025 PH | 2 | [DigiKey](http://www.digikey.com/product-detail/en/b-f-fastener-supply/PMSSS%20256%200025%20PH/H700-ND/274911) |
-| ![](42245556.jpg) | Wire | Fil rouge 26 AWG, 0.181 mm² | 30cm | Farnell |
-| ![](42245564.jpg) | Wire | Fil noir 26 AWG, 0.181 mm² | 10cm | Farnell |
+| ![](42245556.jpg) | Wire | Red wire 26 AWG, 0.181 mm² | 30cm | Farnell |
+| ![](42245564.jpg) | Wire | Black wire 26 AWG, 0.181 mm² | 10cm | Farnell |
 
 
 
