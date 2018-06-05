@@ -9,6 +9,7 @@ title: 'Connect the SATA cables and power cables to the Olimex card'
 * A20 Olimex card
 
 >>>> The cables must be connected correctly; forcing ends into the slots could damage the plugs.
+
 ![](P1080970.jpg)
 
 ## Assembly
