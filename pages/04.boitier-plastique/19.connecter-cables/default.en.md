@@ -3,10 +3,10 @@ title: 'Connect the cables'
 ---
 
 1. First, insert the round plug into the hole just to the right of the small white connector.     
-    ![](_MG_5321.JPG)
+    ![](P1090086.jpg)
 2. Then insert the Ethernet plug.     
-    ![](_MG_5322.JPG)
+    ![](P1090087.jpg)
 3. Then insert the 2 WiFi dongles in the 2 USB connectors.     
-    ![](_MG_5324.JPG)
+    ![](P1090088.jpg)
 4. Finished view of connected cables.     
-    ![](_MG_5325.JPG)
+    ![](P1080984.jpg)
