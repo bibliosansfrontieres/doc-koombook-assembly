@@ -16,5 +16,4 @@ title: 'Fasten the Olimex card onto the F2 deck'
     ![](P1090025.jpg) 
     ![](P1090058.jpg) 
 
->>> Because the standoffs are six-sided, you may have trouble positioning the card on the F2 deck. Use pliers to rotate the standoffs until they are parallel to the notches on the cards.
-
+>>> Here is an exemple of what to not do.
