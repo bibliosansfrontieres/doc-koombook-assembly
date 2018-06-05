@@ -1,5 +1,5 @@
 ---
-title: 'The KoomBook'
+title: 'Plastic case KoomBook'
 ---
 
 The KoomBook is a battery-operated device that displays video content, documents, images and on-line courses using a WiFi hotspot.
