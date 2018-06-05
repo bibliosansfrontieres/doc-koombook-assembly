@@ -8,7 +8,7 @@ title: 'Fasten the hard disk'
 * 2.5” SATA hard disk
 * 4 metal button head screws \(M 3x5\)
 
-![](IMG_5183.JPG)
+![](P1090054.jpg)
 
 ## Assembly
 
@@ -16,13 +16,13 @@ title: 'Fasten the hard disk'
 
 1. Place the disk on its back to have access to threads on the back of the casing
 2. Turn the F1 deck over and place it on top of the disk, as seen in the photo    
-    ![](P1090054.jpg)
-3. Screw together, but do not force, to avoid damaging the casing threads    
-    ![](IMG_5189.JPG)
-4. Underside    
-    ![](IMG_5190.JPG)
-5. Top view    
-    ![](IMG_5191.JPG)
+    ![](P1090053.jpg)
+ Screw together, but do not force, to avoid damaging the casing threads    
+ 
+3. Underside    
+    ![](P1080929.JPG)
+4. Top view    
+    ![](P1080930.JPG)
 
 
 
