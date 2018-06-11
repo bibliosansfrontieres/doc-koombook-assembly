@@ -12,7 +12,7 @@ title: 'Weld 1 Wire to the Olimex Card'
 ## Assembly
 
 1. Locate the GPIO 3 \(see the yellow circle in the photo\). 
-   Then locate prong \# 33, circled in red. You can also count four prongs up from the bottom left-hand side of the GPIO 3.    
+   Then locate prong \# 33, circled in red. It is four prongs up from the bottom left-hand side of the GPIO 3.    
     ![](_MG_5245-1.JPG)  
 2. Tin prong \# 33 to ensure easy welding of the wire.    
     ![](_MG_5329.JPG)  
