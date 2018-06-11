@@ -11,8 +11,8 @@ title: 'Connect the SATA Cables and Power Cables to the Hard Drive'
 
 ## Assembly
 
-1. Position the widest end of the power cable against the hard disk. 
-   >>>>> The cable and disk can only be connected one way.  Ensure that the cable is oriented correctly and the right ends are matched up before inserting it fully.    
+1. Position the wide end of the power cable against the hard disk. 
+   >>>> The cable and disk can only be connected one way.  Ensure that the cable is oriented correctly and the right ends are matched up before inserting it fully.    
  
     ![](P1090038.jpg)  
 2. When they are correctly matched, insert completely.    
