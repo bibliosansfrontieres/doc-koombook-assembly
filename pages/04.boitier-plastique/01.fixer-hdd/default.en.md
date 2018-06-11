@@ -12,7 +12,7 @@ title: 'Attach the Hard Drive'
 
 ## Assembly
 
->>> Position the hard drive so the SATA plug is on the short side of the F1 deck
+>>>>> Position the hard drive so the SATA plug is on the short side of the F1 deck
 
 1. Place the disk on its back to have access to the threads on the back of the casing
 2. Turn the F1 deck over and place it on top of the disk, as seen in the photo    
