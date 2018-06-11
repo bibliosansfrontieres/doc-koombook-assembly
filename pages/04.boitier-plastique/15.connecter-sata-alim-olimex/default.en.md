@@ -1,8 +1,8 @@
 ---
-title: 'Connect the SATA cables and power cables to the Olimex card'
+title: 'Connect the SATA Cables and Power Cables to the Olimex Card'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 * \(Red\) SATA cable
 * Power cable
@@ -15,11 +15,12 @@ title: 'Connect the SATA cables and power cables to the Olimex card'
 ## Assembly
 
 1. Find the white connector located under the already welded switch. Connect the power cable. 
->>>> The connector has a foolproof device to ensure correct insertion only.
+>>>> The connector is designed to allow for correct insertion only.  Trying to force the plug in the wrong way can damage the plug. 
+
 
    ![](P1090080.jpg)   
 2. Follow the same steps for the red SATA connectors. 
->>>>The connector has a foolproof device.    
+>>>>The connector is designed to allow for correct insertion only.  Trying to force the plug in the wrong way can damage the plug.   
        
    ![](P1090017.jpg)   
    ![](P1090081.jpg)   
