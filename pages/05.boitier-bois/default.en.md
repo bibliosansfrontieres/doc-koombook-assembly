@@ -1,5 +1,5 @@
 ---
-title: 'Wooden case KoomBook'
+title: 'Wooden Case KoomBook'
 media_order: '_MG_5328.JPG,_MG_5345.JPG,koombook-v.2.2.svg.zip'
 ---
 
