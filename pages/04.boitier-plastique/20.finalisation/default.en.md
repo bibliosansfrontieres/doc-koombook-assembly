@@ -1,8 +1,8 @@
 ---
-title: 'Finalise the assembly'
+title: 'Finalize the Assembly'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 * KoomBook case
 * Case top
@@ -10,7 +10,7 @@ title: 'Finalise the assembly'
 
 ## Assembly
 
-1. Screw the top of the case on it.
+1. Put the lid on the case, and screw it in.  Then put the yellow pads on each side of the case.  Congratulations, you have successfully set up the KoomBook!
 ![](P1080987.jpg)
 ![](P1080988.jpg)
 ![](P1090089.jpg)
