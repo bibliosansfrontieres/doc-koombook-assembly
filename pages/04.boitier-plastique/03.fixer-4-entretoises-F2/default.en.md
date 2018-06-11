@@ -2,7 +2,7 @@
 title: 'Attach 4 20-mm Standoffs onto the F2 Deck'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 * F2 deck
 * 4 flat head metal screws M3x10 \(ø3mm, length 10mm\)
