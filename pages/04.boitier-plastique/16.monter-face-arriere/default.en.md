@@ -1,5 +1,5 @@
 ---
-title: 'Assembly the micro USB socket'
+title: 'Assemble the Micro USB Socket'
 ---
 
 ## Equipment needed
@@ -10,6 +10,6 @@ title: 'Assembly the micro USB socket'
 
 ## Assembly
 
-1. Position the micro USB socket in the hole meant for that purpose. And screw.
+1. Position the micro USB socket in its slot on the side of the box opposite the power switch. Put the screws in, and tighten.
  ![](P1080979.jpg)
  ![](P1090083.jpg)
