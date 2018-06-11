@@ -1,11 +1,11 @@
 ---
-title: 'Glue the heat dissipater onto the processor'
+title: 'Attach the Heat Dissipater to the Processor'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 - A20 Olimex card
-- Self-sticking heat dissipater
+- Self-adhesive heat dissipater
 
 ![](_MG_5245.JPG)
 
@@ -15,7 +15,7 @@ title: 'Glue the heat dissipater onto the processor'
     ![](_MG_5247.JPG)  
 2. Stick the adhesive side of the dissipater onto the **A20 processor**.    
     ![](_MG_5250.JPG)  
-3. Make sure it is glued to the top side of the micro processor.    
+3. Make sure it is glued to the top side of the micro processor.  It should look like this:
     ![](_MG_5251.JPG)  
 
 
