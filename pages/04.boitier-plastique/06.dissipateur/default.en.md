@@ -5,7 +5,7 @@ title: 'Attach the Heat Dissipater to the Processor'
 ## Equipment Needed
 
 - A20 Olimex card
-- Self-sticking heat dissipater
+- Self-adhesive heat dissipater
 
 ![](_MG_5245.JPG)
 
