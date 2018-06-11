@@ -1,5 +1,5 @@
 ---
-title: 'Fasten the Switch to the '
+title: 'Fasten the Switch to the Front of the Case'
 ---
 
 ## Equipment Needed
