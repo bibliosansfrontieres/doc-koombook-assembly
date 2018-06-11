@@ -24,6 +24,7 @@ title: 'Weld 2 Wires onto the Olimex Card'
    >>>> Weld the red wire onto the first \(+\) connector, not the second \(-\). Make sure the tin does not touch the existing welds.     
     ![](_MG_5261.JPG)  
    >>>> Do not overheat the card components.
+
 View of the back of the card with the 2 welded red and black wires.   
     ![](_MG_5262.JPG)
 
