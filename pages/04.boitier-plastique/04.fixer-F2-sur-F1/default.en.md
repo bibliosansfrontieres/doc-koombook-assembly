@@ -2,7 +2,7 @@
 title: 'Attach the F1 and F2 Decks'
 ---
 
-## Equipment needed
+## Equipment Needed
 * F1 deck
 * F2 deck
 * 4 metal button head screws (M 3x5)
