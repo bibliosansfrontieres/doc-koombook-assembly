@@ -1,5 +1,5 @@
 ---
-title: 'Fasten 4 20-mm standoffs onto the F2 deck'
+title: 'Attach 4 20-mm Standoffs onto the F2 Deck'
 ---
 
 ## Equipment needed
@@ -14,7 +14,11 @@ title: 'Fasten 4 20-mm standoffs onto the F2 deck'
    ![](P1090044.jpg)
 2. Screw the standoff on the metal screw.
    ![](P1090042.jpg)
-3. Repeat for the 3 other standoffs. 
+3. Repeat for the 3 other standoffs.   Once completed, it should look like this:
+
+Underside
     ![](P1080940.JPG)
+ 
+Top view
 	![](P1080941.JPG)
 
