@@ -21,6 +21,7 @@ title: 'Attach the Hard Drive'
 >>>>  Do not force the screw, to avoid damaging the casing threads    
 
 After completing this step, it should look like this:
+
 Underside    
     ![](P1080929.JPG)
 Top view    
