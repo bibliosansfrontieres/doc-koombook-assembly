@@ -7,7 +7,7 @@ title: 'Fasten the Switch to the Front of the Case'
 - Switch
 - Front of casing
 
-![](_MG_5282.JPG)
+![](P1080957.jpg) ![](P1080966.jpg)
 
 ## Assembly
 
