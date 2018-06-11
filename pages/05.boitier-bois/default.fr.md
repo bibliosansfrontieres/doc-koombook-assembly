@@ -12,5 +12,7 @@ Cet outil permet à des populations ne disposant d'aucune connexion Internet d'a
 
 L'objectif de cette documentation est de présenter étape par étape l'assemblage d'un KoomBook
 
+Vous pouvez télécharger le fichier source du [boitier bois](koombook-v.2.2.svg.zip) pouvant être découpé à l'aide d'une découpeuse laser.
+
 ![](_MG_5345.JPG)
 ![](_MG_5328.JPG)
