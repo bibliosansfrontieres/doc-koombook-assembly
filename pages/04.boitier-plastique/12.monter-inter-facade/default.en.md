@@ -15,8 +15,8 @@ title: 'Fasten the Switch to the Front of the Case'
 ![](P1090011.jpg)
 2. Position the switch as indicated in the photo. Correctly identify the inside and outside of the casing by locating foolproof device (two pins). Then tighten the metal washer using the pliers to correctly fasten the switch.     
 ![](P1090005.jpg) ![](P1090010.jpg)
-3. The switch, correctly fastened.     
-    ![](_MG_5286.JPG)  
+The switch, correctly fastened.     
+![](P1080967.jpg)![](P1090005.jpg)
 
 
 
