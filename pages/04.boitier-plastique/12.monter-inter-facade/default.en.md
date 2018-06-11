@@ -1,8 +1,8 @@
 ---
-title: 'Fasten the switch to the front side of the casing'
+title: 'Fasten the Switch to the  of the casing'
 ---
 
-## Equipment needed
+## Equipment Needed
 - Pliers
 - Switch
 - Front of casing
