@@ -1,8 +1,8 @@
 ---
-title: 'Weld 1 wire onto the Olimex card'
+title: 'Weld 1 Wire to the Olimex Card'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 * A20 Olimex card
 * 15 cm of red wire which has been tinned at both ends
@@ -12,9 +12,9 @@ title: 'Weld 1 wire onto the Olimex card'
 ## Assembly
 
 1. Locate the GPIO 3 \(see the yellow circle in the photo\). 
-   Then locate prong \# 33, circled in red. You can also count four prongs up from the bottom left-hand side of the GPIO 3.    
+   Then locate prong \# 33, circled in red. It is four prongs up from the bottom left-hand side of the GPIO 3.     
     ![](_MG_5245-1.JPG)  
-2. Quickly tin prong \# 33 to ensure easy welding of the wire.    
+2. Tin prong \# 33 to ensure easy welding of the wire.    
     ![](_MG_5329.JPG)  
 3. Weld the red wire onto prong \# 33 of the GPIO-3 connector on the Olimex card.     
     ![](_MG_5331.JPG)  
