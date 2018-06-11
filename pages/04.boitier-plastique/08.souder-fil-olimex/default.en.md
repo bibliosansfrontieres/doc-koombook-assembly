@@ -2,7 +2,7 @@
 title: 'Weld 1 Wire to the Olimex Card'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 * A20 Olimex card
 * 15 cm of red wire which has been tinned at both ends
