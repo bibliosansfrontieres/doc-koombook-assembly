@@ -2,7 +2,7 @@
 title: 'Attach the Hard Drive'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 * F1 deck (the biggest deck)
 * 2.5” SATA hard drive
