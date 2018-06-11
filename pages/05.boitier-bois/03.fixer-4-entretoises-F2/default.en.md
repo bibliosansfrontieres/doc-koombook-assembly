@@ -1,5 +1,5 @@
 ---
-title: 'Fasten 4 20-mm standoffs onto the F2 deck'
+title: 'Attach 4 20-mm Standoffs to the F2 Deck'
 ---
 
 ## Equipment Needed
