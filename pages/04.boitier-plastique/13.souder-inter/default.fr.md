@@ -18,7 +18,7 @@ media_order: '_MG_5288.JPG,_MG_5290.JPG,_MG_5292.JPG,P1090002.jpg,P1090003.jpg,P
 	![](P1090067.jpg)
 3. Souder le fil noir à la cosse moins (-) et C1 maintenant connecté  
 	![](P1090072.jpg)
-4. Repérez le second fil rouge provenant de l'interrupteur (plus court = 10 cm) et soudez le sur la cosse notée NO1 (normaly open 1)  
+4. Repérez le second fil rouge provenant de l'interrupteur (plus court = 10 cm) et soudez le sur la cosse notée NO1 (normally open 1)  
 	![](P1090073.jpg)
 
 
