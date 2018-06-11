@@ -1,5 +1,5 @@
 ---
-title: 'Attach 4 15-mm Standoffs onto the F1 Deck'
+title: 'Attach 4 15-mm Standoffs to the F1 Deck'
 ---
 
 ## Equipment Needed
