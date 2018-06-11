@@ -2,7 +2,7 @@
 title: 'Fasten 4 20-mm standoffs onto the F2 deck'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 * F2 deck
 * 4 M3x10 metal flat screws \(ø3mm, 10mm long\)
