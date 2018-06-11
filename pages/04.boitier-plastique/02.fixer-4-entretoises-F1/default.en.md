@@ -1,8 +1,8 @@
 ---
-title: 'Fasten 4 15-mm standoffs onto the F1 deck'
+title: 'Attach 4 15-mm Standoffs onto the F1 Deck'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 - F1 deck
 - 4 M3x5 metal flat screws (ø3mm, 5mm long)
@@ -16,7 +16,7 @@ title: 'Fasten 4 15-mm standoffs onto the F1 deck'
     ![](P1090049.jpg)  
 3. Screw the standoff directly onto the screw. Do not screw too tightly. Doing so may damage the plastic screw thread of the standoff.   
     ![](P1090048.jpg)  
-4. Repeat the same steps for the 3 other standoffs.   
+4. Repeat the same steps for the 3 other standoffs.  Once completed, it should look like this:
     ![](P1080939.JPG)
 
 
