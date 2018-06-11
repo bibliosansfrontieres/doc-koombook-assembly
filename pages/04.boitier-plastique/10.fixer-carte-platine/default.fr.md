@@ -6,7 +6,7 @@ media_order: 'P1080946.JPG,P1090025.jpg,P1090026.jpg'
 ## Matériel nécessaire 
 * Carte Olimex A20
 * Platine F2
-* 2 vis blanches plastique M3x10  
+* 4 vis blanches plastique M3x10  
 
 
 ![](P1090026.jpg)
