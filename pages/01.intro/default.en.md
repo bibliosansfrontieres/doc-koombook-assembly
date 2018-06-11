@@ -12,6 +12,6 @@ This tool allows people to access digital resources in areas where there is othe
 
 This guide presents step-by-step instructions on how to assemble a KoomBook.
 
-There is currently two versions of the KoomBook, one in wooden case, the other one in plastic case.
+There are currently two versions of the KoomBook: one in a wooden case, and one in a plastic case.
 
 ![](IMG_20160521_154615.jpg) ![](_MG_3187.JPG)
