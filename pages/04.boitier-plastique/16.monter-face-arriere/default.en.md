@@ -1,5 +1,5 @@
 ---
-title: 'Assemble the Micro USB Socket'
+title: 'Attach the Micro USB Socket'
 ---
 
 ## Equipment needed
