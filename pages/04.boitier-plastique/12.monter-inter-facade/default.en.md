@@ -1,5 +1,5 @@
 ---
-title: 'Fasten the Switch to the  of the casing'
+title: 'Fasten the Switch to the '
 ---
 
 ## Equipment Needed
