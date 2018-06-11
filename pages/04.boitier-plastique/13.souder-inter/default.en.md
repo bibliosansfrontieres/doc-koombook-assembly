@@ -17,6 +17,6 @@ title: 'Weld the Switch'
     ![](_MG_5292.JPG)  
 4. Locate the wire from the GPIO 3 (the longer, 15 cm, red wire) and weld it to the (+) lug. 
     ![](_MG_5295.JPG)  
-5. Locate the second red wire from the switch (the 10 cm red wire) and weld it to the NO1 lug (normally closed)    
+5. Locate the second red wire from the switch (the 10 cm red wire) and weld it to the NO1 lug (normally open)    
     ![](_MG_5297.JPG)  
 
