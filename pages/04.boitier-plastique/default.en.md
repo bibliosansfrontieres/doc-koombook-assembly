@@ -12,5 +12,4 @@ This tool allows people to access digital resources in areas where there is othe
 
 This guide presents step-by-step instructions on how to assemble the KoomBook with a plastic case.
 
-![](_MG_5345.JPG)
-![](_MG_5328.JPG)
+![](P1080920.JPG)![](P1080984.JPG)
