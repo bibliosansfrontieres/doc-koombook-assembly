@@ -19,5 +19,5 @@ title: 'Tin Your Electrical Cables'
     ![](_MG_5254.JPG)  
 >>>> Do not heat the tin for too long, as it may burn. Use as little tin as possible and complete this step in a well-aired room.
 
-3. Repeat these step for both ends of all 3 wires.  They should look like this:  
+3. Repeat these steps for both ends of all 3 wires.  They should look like this:  
     ![](_MG_5256.JPG)  
