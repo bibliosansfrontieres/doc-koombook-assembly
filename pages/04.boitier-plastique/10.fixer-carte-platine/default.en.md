@@ -5,7 +5,7 @@ title: 'Fasten the Olimex Card to the F2 deck'
 ## Equipment Needed
 - A20 Olimex card
 - F2 deck
-- 2 white plastic screws (M 3x10)
+- 4 white plastic screws (M 3x10)
 
 ![](P1090026.jpg)  
 
