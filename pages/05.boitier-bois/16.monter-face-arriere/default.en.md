@@ -1,5 +1,5 @@
 ---
-title: 'Mount the Back Plate of the Case'
+title: 'Connect USB and Ethernet Cable to Back of the Case'
 ---
 
 ## Equipment Needed
