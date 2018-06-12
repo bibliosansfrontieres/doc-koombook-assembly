@@ -14,7 +14,7 @@ title: 'Attach 4 15-mm Standoffs to the F1 Deck'
     ![](P1090050.jpg)  
 2. Position the standoff on top of the screw on the other side of the F1 deck.    
     ![](P1090049.jpg)  
-3. Screw the standoff directly onto the screw. Do not force the screw Doing so may damage the plastic screw thread of the standoff.   
+3. Screw the standoff directly onto the screw. Do not force the screw.  Doing so may damage the plastic screw thread of the standoff.   
     ![](P1090048.jpg)  
 4. Repeat the same steps for the 3 other standoffs.  Once completed, it should look like this:
     ![](P1080939.JPG)
