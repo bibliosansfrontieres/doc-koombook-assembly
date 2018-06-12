@@ -3,7 +3,7 @@ title: 'Insert the LiPo battery'
 media_order: 'P1080981.jpg,P1090019.jpg,P1080980.jpg,P1090021.jpg,P1080982.jpg'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 * LiPo battery
 * Adhesive self-gripping strip
