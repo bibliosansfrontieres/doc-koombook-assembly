@@ -1,8 +1,8 @@
 ---
-title: 'Finalise the assembly'
+title: 'Finalize the Assembly'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 * F1/ F2 deck
 * Housing jacket
@@ -13,23 +13,24 @@ title: 'Finalise the assembly'
 ## Assembly
 
 1. Sit the assembled F1/F2 unit on the housing jacket. 
-   The unit has 2 foolproof devices for the back and 1 for the front. Make sure you note where these foolproof devices are located on the housing jacket.    
+To position the unit correctly, notice the two at the rear of the device, and one notch at the front.  Line these up with the pins on the front and back of the F1 deck to ensure correct positioning of the housing jacket.    
     ![](_MG_5327.JPG)
-2. The F1/F2 deck is in position on the housing jacket.     
+The F1/F2 deck correctly positioned on the housing jacket:     
     ![](_MG_5328.JPG)
-3. Connect the LiPo battery to the white connector in between the USB socket and the round plug. 
->>>> This plug has a foolproof device.
+2. Connect the LiPo battery to the white connector in between the USB socket and the round plug. 
+>>>> This plug can only be inserted in one direction.  Trying to force it may damage the plug.
 
-    ![](_MG_5334.JPG)
-4. Position the battery as shown in the photo. The F1/F2 deck has a notch to fit the battery in place.     
+
+   ![](_MG_5334.JPG)
+3. Position the battery as shown in the photo. The F1/F2 deck has a notch to fit the battery in place.     
     ![](_MG_5335.JPG)
-5. Finish by closing the housing jacket around the F1/F2 deck. Use the notches and foolproof device on the front and back sides of the casing to clip the housing jacket into place at regular intervals.     
+4. Finish by closing the housing jacket around the F1/F2 deck. Use the notches and pins on the sides of the case to clip the housing jacket into place at regular intervals.     
     ![](_MG_5336.JPG)
-6. Follow this step on both sides.    
+5. Follow this step for both sides of the housing jacket.
     ![](_MG_5337.JPG)
-7. Insert the micro-SD card.     
+6. Insert the micro-SD card.     
     ![](_MG_5340.JPG)
-8. Close the casing.     
+7. Close the casing.  Congratulations.  You have successfully set up the KoomBook!
     ![](_MG_5343.JPG)
 
 
