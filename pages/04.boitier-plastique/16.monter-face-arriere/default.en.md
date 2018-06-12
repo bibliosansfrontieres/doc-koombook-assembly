@@ -2,7 +2,7 @@
 title: 'Attach the Micro USB Socket'
 ---
 
-## Equipment needed
+## Equipment Needed
 - Micro USB socket
 - 2 B&F metal screws (Fastener Supply PMSSS 256 0025 PH)
 
