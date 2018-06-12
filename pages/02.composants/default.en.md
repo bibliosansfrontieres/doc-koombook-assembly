@@ -18,7 +18,7 @@ Here are the parts needed to assemble a KoomBook:
 | ![](P1060115.JPG) | USB Cable | Usb A Male-Micro B Male, 1m | 1 | [Farnell](http://fr.farnell.com/multicomp/mc000948/cable-usb-2-0-a-micro-b-male-1m/dp/2468266) |
 | ![](ALUMINUM-HEATSINK-20x20x6MM.jpg) | Heat Dissipater | Aluminium-Heatsink | 1 | [Olimex](https://www.olimex.com/Products/Components/Misc/ALUMINIUM-HEATSINK-20x20x6MM/) |
 | ![](SATA-CABLE-SET.jpg) | SATA Cables | SATA-CABLE-SET | 1 | [Olimex](https://www.olimex.com/Products/Components/Cables/SATA-CABLE-SET/) |
-| ![](481-020.jpg) | Push Button | Rugged metal pushbutton white LED | 1 | [SnootLab](http://snootlab.fr/lang-en/adafruit/949-rugged-metal-pushbutton-white-led-en.html) |
+| ![](481-020.jpg) | Power Button | Rugged metal pushbutton white LED | 1 | [SnootLab](http://snootlab.fr/lang-en/adafruit/949-rugged-metal-pushbutton-white-led-en.html) |
 | ![](909-04.jpg) | Ethernet Connector | Panel Mount Ethernet Extension Cable | 1 | [SnootLab](http://snootlab.fr/adafruit/520-cable-rj45-de-montage-en-panneau-fr.html) |
 | ![](2354239-40.jpg) | Micro USB Baseplate | Embase Micro Usb Type Ab Traversante | 1 | [Farnell](http://fr.farnell.com/amphenol-commercial-products/musb-k152-30/embase-micro-usb-type-ab-traversante/dp/2354239) |
 | ![](P1060110.JPG) | Standoff | HEX NYLON 6 FEMALE 25MM M3 STANDOFF | 4 | [Farnell](http://fr.farnell.com/tr-fastenings/fahsngffm3-25-6/entretoise-hex-nylon-6-femelle/dp/2480026) |
