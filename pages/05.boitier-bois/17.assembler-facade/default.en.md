@@ -17,7 +17,7 @@ title: 'Assemble the Case'
 2. Position the back plate in the notches of the F1 deck.
 ![](_MG_5319.JPG)
 The correctly mounted front and back plate look like this:
->>>> The casing is fragile at this stage. Handle it with care.
+>>>> The case is fragile at this stage. Handle it with care.
 
 ![](_MG_5320.JPG)
 
