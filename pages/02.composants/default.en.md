@@ -1,5 +1,5 @@
 ---
-title: 'KoomBook components'
+title: 'KoomBook Components'
 ---
 
 ![](P1060970.JPG)
