@@ -15,7 +15,7 @@ title: 'Connect the SATA Cables and Power Cables to the Olimex Card'
 ## Assembly
 
 1. Find the white connector located under the already welded switch. Connect the power cable. 
->>>> The connector is designed to allow for correct insertion only.  Trying to force the plug in the wrong way can damage the plug. 
+>>>> The connector is designed to allow for correct insertion only.  Trying to force the plug in the wrong way can damage it. 
 
 
    ![](P1090080.jpg)   
