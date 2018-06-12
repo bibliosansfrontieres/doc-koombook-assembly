@@ -2,7 +2,7 @@
 title: 'Weld the Micro USB Socket'
 ---
 
-## Equipment needed
+## Equipment Needed
 - Micro USB socket
 - Black cable (with round plug)
 - Glue gun
