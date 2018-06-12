@@ -1,6 +1,7 @@
 ---
 title: 'Souder l''interrupteur'
 ---
+
 ## Matériel nécessaire 
 * Un fer à souder
 * Interrupteur
@@ -16,6 +17,6 @@ title: 'Souder l''interrupteur'
 ![](_MG_5292.JPG)  
 4. Repérez le fil provenant du GPIO 3 (le plus long normalement = 15 cm) et soudez sur la cosse plus (+)  
 ![](_MG_5295.JPG)  
-5. Repérez le second fil rouge provenant de l'interrupteur (plus court = 10 cm) et soudez le sur la cosse notée NO1 (normaly open 1)  
+5. Repérez le second fil rouge provenant de l'interrupteur (plus court = 10 cm) et soudez le sur la cosse notée NO1 (normally open 1)  
 ![](_MG_5297.JPG)  
 
