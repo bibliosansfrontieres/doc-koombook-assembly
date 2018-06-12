@@ -30,7 +30,7 @@ The F1/F2 deck correctly positioned on the housing jacket:
     ![](_MG_5337.JPG)
 6. Insert the micro-SD card.     
     ![](_MG_5340.JPG)
-7. Close the casing.  Congratulations.  You have successfully set up the KoomBook!
+7. Close the casing.  Congratulations, you have successfully set up the KoomBook!
     ![](_MG_5343.JPG)
 
 
