@@ -1,5 +1,6 @@
 ---
 title: 'Le KoomBook boitier bois'
+media_order: 'koombook-v.2.2.svg.zip,_MG_5328.JPG,_MG_5345.JPG,koombook-v.2.2.svg.png'
 ---
 
 Le KoomBook est un appareil fonctionnant sur batterie et diffusant des contenus vidéos, textes, images, cours en ligne, à l'aide d'un hotspot wifi.
@@ -13,6 +14,6 @@ Cet outil permet à des populations ne disposant d'aucune connexion Internet d'a
 L'objectif de cette documentation est de présenter étape par étape l'assemblage d'un KoomBook
 
 Vous pouvez télécharger le fichier source du [boitier bois](koombook-v.2.2.svg.zip) pouvant être découpé à l'aide d'une découpeuse laser.
-
+![](koombook-v.2.2.svg.png?cropResize=500,500)
 ![](_MG_5345.JPG)
 ![](_MG_5328.JPG)
