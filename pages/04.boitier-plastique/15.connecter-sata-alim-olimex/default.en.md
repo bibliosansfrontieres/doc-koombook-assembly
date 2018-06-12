@@ -20,7 +20,7 @@ title: 'Connect the SATA Cables and Power Cables to the Olimex Card'
 
    ![](P1090080.jpg)   
 2. Follow the same steps for the red SATA connectors. 
->>>>The connector is designed to allow for correct insertion only.  Trying to force the plug in the wrong way can damage the plug.   
+>>>>The connector is designed to allow for correct insertion only.  Trying to force the plug in the wrong way can damage it.   
        
    ![](P1090017.jpg)   
    ![](P1090081.jpg)   
