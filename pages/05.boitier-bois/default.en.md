@@ -13,5 +13,6 @@ This tool allows people to access digital resources in areas where there is othe
 
 This guide presents step-by-step instructions on how to assemble the KoomBook with a wooden case.  To begin, download the [wooden casing](koombook-v.2.2.svg.zip) design to be cut with a laser cutter machine
 
+![](koombook-v.2.2.svg.png?cropResize=500,500)
 ![](_MG_5345.JPG)
 ![](_MG_5328.JPG)
