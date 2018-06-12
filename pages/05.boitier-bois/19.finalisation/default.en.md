@@ -13,7 +13,7 @@ title: 'Finalize the Assembly'
 ## Assembly
 
 1. Sit the assembled F1/F2 unit on the housing jacket. 
-To position the unit correctly, notice the two notches at the rear of the jacket, and one notch at the front.  Line these up with the pins on the front and back of the F1 deck to ensure correct positioning of the housing jacket.    
+To position the unit correctly, notice the two notches at the rear of the jacket, and one notch at the front.  Line these up with the pins on the front and back of the F1 deck.   
     ![](_MG_5327.JPG)
 The F1/F2 deck correctly positioned on the housing jacket:     
     ![](_MG_5328.JPG)
