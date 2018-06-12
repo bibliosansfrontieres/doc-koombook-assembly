@@ -1,8 +1,8 @@
 ---
-title: 'Assemble the casing'
+title: 'Assemble the Case'
 ---
 
-## Equipment needed
+## Equipment Needed
 
 * F1/ F2 deck
 * Front plate
@@ -16,8 +16,8 @@ title: 'Assemble the casing'
 ![](_MG_5315.JPG)
 2. Position the back plate in the notches of the F1 deck.
 ![](_MG_5319.JPG)
-3. Correctly mounted front and back plate
->>>>> The casing is fragile at this stage. Handle it with care.
+The correctly mounted front and back plate look like this:
+>>>> The casing is fragile at this stage. Handle it with care.
 
 ![](_MG_5320.JPG)
 
