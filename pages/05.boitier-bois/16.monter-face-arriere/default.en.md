@@ -1,5 +1,5 @@
 ---
-title: 'Connect USB and Ethernet Cable to Back of the Case'
+title: 'Connect USB and Ethernet Cables to Back of the Case'
 ---
 
 ## Equipment Needed
