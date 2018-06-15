@@ -1,6 +1,6 @@
 ---
 title: 'Les composants du KoomBook avec Raspberry Pi'
-media_order: 'RASPBERRY_PI_3B_PLUS.png,615c4uY3IEL._SL1407_.jpg,PiJuice.jpg,Chargeur-RaspberryPi.jpg'
+media_order: 'RASPBERRY_PI_3B_PLUS.png,615c4uY3IEL._SL1407_.jpg,PiJuice.jpg,Chargeur-RaspberryPi.jpg,481-020.jpg,Adaptateur_Sata_USB.jpg'
 ---
 
 Voici la liste des pièces nécessaires pour assembler un KoomBook:
@@ -12,8 +12,7 @@ Voici la liste des pièces nécessaires pour assembler un KoomBook:
 | ![](P1060117.JPG) | Stockage des données | Crucial BX200 240 Go | 1 | [LDCL](http://www.ldlc-pro.com/fiche/PB00198020.html) |
 | ![](PiJuice.jpg) | Batterie | PiJuice | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00250984.html) |
 | ![](Chargeur-RaspberryPi.jpg) | Alimentation USB | Raspberry Pi 3 Power Supply 5.1V 2.5A Blanc | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00205708.html) |
-| ![](ALUMINUM-HEATSINK-20x20x6MM.jpg) | Dissipateur de chaleur | Aluminium-Heatsink | 1 | [Olimex](https://www.olimex.com/Products/Components/Misc/ALUMINIUM-HEATSINK-20x20x6MM/) |
-| ![](SATA-CABLE-SET.jpg) | Câbles SATA | SATA-CABLE-SET | 1 | [Olimex](https://www.olimex.com/Products/Components/Cables/SATA-CABLE-SET/) |
+| ![](Adaptateur_Sata_USB.jpg) | Adaptateur Sata vers USB | Adaptateur USB 3.0 / SATA 2.5" SSD-HDD auto-alimenté  | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00186502.html) |
 | ![](481-020.jpg) | Bouton poussoir | Rugged metal pushbutton white LED | 1 | [SnootLab](http://snootlab.fr/lang-en/adafruit/949-rugged-metal-pushbutton-white-led-en.html) |
 | ![](909-04.jpg) | Connecteur Ethernet | Panel Mount Ethernet Extension Cable | 1 | [SnootLab](http://snootlab.fr/adafruit/520-cable-rj45-de-montage-en-panneau-fr.html) |
 | ![](2354239-40.jpg) | Embase Micro Usb | Embase Micro Usb Type Ab Traversante | 1 | [Farnell](http://fr.farnell.com/amphenol-commercial-products/musb-k152-30/embase-micro-usb-type-ab-traversante/dp/2354239) |
