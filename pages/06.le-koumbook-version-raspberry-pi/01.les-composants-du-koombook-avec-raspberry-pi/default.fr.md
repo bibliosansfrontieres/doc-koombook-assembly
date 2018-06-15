@@ -3,8 +3,6 @@ title: 'Les composants du KoomBook avec Raspberry Pi'
 media_order: RaspberryPI3_B+.jpg
 ---
 
-![](P1060970.JPG)
-
 Voici la liste des pièces nécessaires pour assembler un KoomBook:
 
 | Photo | Fonction | Désigniation | Unités | Fournisseurs |
