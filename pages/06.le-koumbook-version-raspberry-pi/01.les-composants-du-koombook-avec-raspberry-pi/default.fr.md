@@ -1,5 +1,6 @@
 ---
 title: 'Les composants du KoomBook avec Raspberry Pi'
+media_order: RaspberryPI3_B+.jpg
 ---
 
 ![](P1060970.JPG)
@@ -8,7 +9,7 @@ Voici la liste des pièces nécessaires pour assembler un KoomBook:
 
 | Photo | Fonction | Désigniation | Unités | Fournisseurs |
 | --- | --- | --- | --- | --- |
-| ![](A20-OLinuXino-LIME2-1.jpg) | Carte mère | A20-OlinuXIno-LIME2 | 1 | [Olimex](https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXIno-LIME2/open-source-hardware) |
+| ![](RaspberryPI3_B+.jpg) | Carte mère | Raspberry Pi 3 Model B+ | 1 | [LDLC](https://www.ldlc.com/fiche/PB00246555.html) |
 | ![](MOD-WIFI-R5370-1.jpg) | Emetteur\/Récepteur Wifi | Mod-Wifi-R5370 | 2 | [Olimex](https://www.olimex.com/Products/USB-Modules/MOD-WIFI-R5370/) |
 | ![](615c4uY3IEL._SL1407_.jpg) | Stockage système d'exploitation | Samsung microSDHC 16 Go | 1 | [LDLC](http://www.ldlc-pro.com/fiche/PB00163896.html) |
 | ![](P1060117.JPG) | Stockage des données | Crucial BX200 240 Go | 1 | [LDCL](http://www.ldlc-pro.com/fiche/PB00198020.html) |
