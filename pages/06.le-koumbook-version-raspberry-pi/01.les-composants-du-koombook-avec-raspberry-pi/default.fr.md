@@ -1,5 +1,6 @@
 ---
 title: 'Les composants du KoomBook avec Raspberry Pi'
+media_order: 'RASPBERRY_PI_3B_PLUS.png,615c4uY3IEL._SL1407_.jpg'
 ---
 
 Voici la liste des pièces nécessaires pour assembler un KoomBook:
@@ -7,10 +8,9 @@ Voici la liste des pièces nécessaires pour assembler un KoomBook:
 | Photo | Fonction | Désigniation | Unités | Fournisseurs |
 | --- | --- | --- | --- | --- |
 | ![](RASPBERRY_PI_3B_PLUS.png) | Carte mère | Raspberry Pi 3 Model B+ | 1 | [LDLC](https://www.ldlc.com/fiche/PB00246555.html) |
-| ![](MOD-WIFI-R5370-1.jpg) | Emetteur\/Récepteur Wifi | Mod-Wifi-R5370 | 2 | [Olimex](https://www.olimex.com/Products/USB-Modules/MOD-WIFI-R5370/) |
 | ![](615c4uY3IEL._SL1407_.jpg) | Stockage système d'exploitation | Samsung microSDHC 16 Go | 1 | [LDLC](http://www.ldlc-pro.com/fiche/PB00163896.html) |
 | ![](P1060117.JPG) | Stockage des données | Crucial BX200 240 Go | 1 | [LDCL](http://www.ldlc-pro.com/fiche/PB00198020.html) |
-| ![](2484233-40.jpg) | Batterie | Lithium-Ion, 7800mAh 3.7V | 1 | Farnell\/Ansmann\/[RSonline](http://fr.rs-online.com/web/p/blocs-batteries-lithium/7760872/)\/[Olimex](https://www.olimex.com/Products/Power/BATTERY-LIPO6600mAh/) |
+| ![](2484233-40.jpg) | Batterie | PiJuice | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00250984.html |
 | ![](PWR-CABLE.jpg) | Câble d'alimentation | Pwr-Cable | 1 | [Olimex](https://www.olimex.com/Products/Components/Cables/PWR-CABLE/) |
 | ![](PW03052-40.jpg) | Alimentation USB | PRO POWER  MWUSB3U BLACK  Alimentation AC\/DC | 1 | [Farnell](http://fr.farnell.com/pro-power/mwusb3u-black/alimentation-usb-5v-2-1a-blk-euro/dp/2289559?MER=BN-2289559) |
 | ![](P1060115.JPG) | Câble USB | Usb A Male-Micro B Male, 1m | 1 | [Farnell](http://fr.farnell.com/multicomp/mc000948/cable-usb-2-0-a-micro-b-male-1m/dp/2468266) |
