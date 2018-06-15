@@ -11,5 +11,3 @@ Cet outil permet à des populations ne disposant d'aucune connexion Internet d'a
 [Les ressources numériques installées sur le Koombook](https://github.com/ideascube/ansiblecube) sont issues de projets libres \(wikipedia, kan academy, etc.\) et présentées par un logiciel libre lui aussi, [ideascube](https://github.com/ideascube/ideascube). 
 
 L'objectif de cette documentation est de présenter étape par étape l'assemblage d'un KoomBook
-
-![](P1080920.JPG)![](P1080984.JPG)
