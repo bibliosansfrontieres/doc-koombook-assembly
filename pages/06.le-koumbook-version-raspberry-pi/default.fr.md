@@ -1,5 +1,5 @@
 ---
-title: 'Le KoomBook version Raspberry Pi'
+title: 'Le KoomBook avec Raspberry Pi'
 ---
 
 Le KoomBook est un appareil fonctionnant sur batterie et diffusant des contenus vidéos, textes, images, cours en ligne, à l'aide d'un hotspot wifi.
