@@ -11,8 +11,8 @@ Voici la liste des pièces nécessaires pour assembler un KoomBook:
 | ![](615c4uY3IEL._SL1407_.jpg) | Stockage système d'exploitation | Samsung microSDHC 16 Go | 1 | [LDLC](http://www.ldlc-pro.com/fiche/PB00163896.html) |
 | ![](P1060117.JPG) | Stockage des données | Crucial BX200 240 Go | 1 | [LDCL](http://www.ldlc-pro.com/fiche/PB00198020.html) |
 | ![](PiJuice.jpg?cropResize=60,60) | Batterie | PiJuice | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00250984.html) |
-| ![](Chargeur-RaspberryPi.jpg) | Alimentation USB | Raspberry Pi 3 Power Supply 5.1V 2.5A Blanc | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00205708.html) |
-| ![](Adaptateur_Sata_USB.jpg) | Adaptateur Sata vers USB | Adaptateur USB 3.0 / SATA 2.5" SSD-HDD auto-alimenté  | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00186502.html) |
+| ![](Chargeur-RaspberryPi.jpg?cropResize=60,60) | Alimentation USB | Raspberry Pi 3 Power Supply 5.1V 2.5A Blanc | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00205708.html) |
+| ![](Adaptateur_Sata_USB.jpg?cropResize=60,60) | Adaptateur Sata vers USB | Adaptateur USB 3.0 / SATA 2.5" SSD-HDD auto-alimenté  | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00186502.html) |
 | ![](481-020.jpg) | Bouton poussoir | Rugged metal pushbutton white LED | 1 | [SnootLab](http://snootlab.fr/lang-en/adafruit/949-rugged-metal-pushbutton-white-led-en.html) |
 | ![](909-04.jpg) | Connecteur Ethernet | Panel Mount Ethernet Extension Cable | 1 | [SnootLab](http://snootlab.fr/adafruit/520-cable-rj45-de-montage-en-panneau-fr.html) |
 | ![](2354239-40.jpg) | Embase Micro Usb | Embase Micro Usb Type Ab Traversante | 1 | [Farnell](http://fr.farnell.com/amphenol-commercial-products/musb-k152-30/embase-micro-usb-type-ab-traversante/dp/2354239) |
