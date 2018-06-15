@@ -1,6 +1,6 @@
 ---
 title: 'Les composants du KoomBook avec Raspberry Pi'
-media_order: 'RASPBERRY_PI_3B_PLUS.png,PiJuice.jpg,Chargeur-RaspberryPi.jpg,481-020.jpg,Adaptateur_Sata_USB.jpg,909-04.jpg,2354239-40.jpg,42251358.jpg,42245556.jpg,42245564.jpg,P1060110.JPG,P1060111.JPG,42358728.jpg,2472689-40.jpg,615c4uY3IEL._SL1407_.jpg'
+media_order: 'RASPBERRY_PI_3B_PLUS.png,PiJuice.jpg,Chargeur-RaspberryPi.jpg,481-020.jpg,Adaptateur_Sata_USB.jpg,909-04.jpg,2354239-40.jpg,42251358.jpg,42245556.jpg,42245564.jpg,P1060110.JPG,P1060111.JPG,42358728.jpg,2472689-40.jpg,615c4uY3IEL._SL1407_.jpg,DD.jpg'
 ---
 
 Voici la liste des pièces nécessaires pour assembler un KoomBook:
@@ -9,7 +9,7 @@ Voici la liste des pièces nécessaires pour assembler un KoomBook:
 | --- | --- | --- | --- | --- |
 | ![](RASPBERRY_PI_3B_PLUS.png?cropResize=60,60) | Carte mère | Raspberry Pi 3 Model B+ | 1 | [LDLC](https://www.ldlc.com/fiche/PB00246555.html) |
 | ![](615c4uY3IEL._SL1407_.jpg?cropResize=60,60) | Stockage système d'exploitation | Samsung microSDHC 16 Go | 1 | [LDLC](http://www.ldlc-pro.com/fiche/PB00163896.html) |
-| | Stockage des données | Disque dur | 1 | [LDCL]() |
+| ![](DD.jpg?cropResize=60,60) | Stockage des données | Seagate BarraCuda Pro 500 Go | 1 | [LDCL](https://www.ldlc-pro.com/fiche/PB00245153.html) |
 | ![](PiJuice.jpg?cropResize=60,60) | Batterie | PiJuice | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00250984.html) |
 | ![](Chargeur-RaspberryPi.jpg?cropResize=60,60) | Alimentation USB | Raspberry Pi 3 Power Supply 5.1V 2.5A Blanc | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00205708.html) |
 | ![](Adaptateur_Sata_USB.jpg?cropResize=60,60) | Adaptateur Sata vers USB | Adaptateur USB 3.0 / SATA 2.5" SSD-HDD auto-alimenté  | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00186502.html) |
