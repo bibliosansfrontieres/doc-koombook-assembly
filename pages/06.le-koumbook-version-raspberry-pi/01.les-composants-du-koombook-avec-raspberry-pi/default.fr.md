@@ -1,6 +1,6 @@
 ---
 title: 'Les composants du KoomBook avec Raspberry Pi'
-media_order: 'RASPBERRY_PI_3B_PLUS.png,615c4uY3IEL._SL1407_.jpg,PiJuice.jpg'
+media_order: 'RASPBERRY_PI_3B_PLUS.png,615c4uY3IEL._SL1407_.jpg,PiJuice.jpg,Chargeur-RaspberryPi.jpg'
 ---
 
 Voici la liste des pièces nécessaires pour assembler un KoomBook:
@@ -11,9 +11,7 @@ Voici la liste des pièces nécessaires pour assembler un KoomBook:
 | ![](615c4uY3IEL._SL1407_.jpg) | Stockage système d'exploitation | Samsung microSDHC 16 Go | 1 | [LDLC](http://www.ldlc-pro.com/fiche/PB00163896.html) |
 | ![](P1060117.JPG) | Stockage des données | Crucial BX200 240 Go | 1 | [LDCL](http://www.ldlc-pro.com/fiche/PB00198020.html) |
 | ![](PiJuice.jpg) | Batterie | PiJuice | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00250984.html) |
-| ![](PWR-CABLE.jpg) | Câble d'alimentation | Pwr-Cable | 1 | [Olimex](https://www.olimex.com/Products/Components/Cables/PWR-CABLE/) |
-| ![](PW03052-40.jpg) | Alimentation USB | PRO POWER  MWUSB3U BLACK  Alimentation AC\/DC | 1 | [Farnell](http://fr.farnell.com/pro-power/mwusb3u-black/alimentation-usb-5v-2-1a-blk-euro/dp/2289559?MER=BN-2289559) |
-| ![](P1060115.JPG) | Câble USB | Usb A Male-Micro B Male, 1m | 1 | [Farnell](http://fr.farnell.com/multicomp/mc000948/cable-usb-2-0-a-micro-b-male-1m/dp/2468266) |
+| ![](Chargeur-RaspberryPi.jpg) | Alimentation USB | Raspberry Pi 3 Power Supply 5.1V 2.5A Blanc | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00205708.html) |
 | ![](ALUMINUM-HEATSINK-20x20x6MM.jpg) | Dissipateur de chaleur | Aluminium-Heatsink | 1 | [Olimex](https://www.olimex.com/Products/Components/Misc/ALUMINIUM-HEATSINK-20x20x6MM/) |
 | ![](SATA-CABLE-SET.jpg) | Câbles SATA | SATA-CABLE-SET | 1 | [Olimex](https://www.olimex.com/Products/Components/Cables/SATA-CABLE-SET/) |
 | ![](481-020.jpg) | Bouton poussoir | Rugged metal pushbutton white LED | 1 | [SnootLab](http://snootlab.fr/lang-en/adafruit/949-rugged-metal-pushbutton-white-led-en.html) |
