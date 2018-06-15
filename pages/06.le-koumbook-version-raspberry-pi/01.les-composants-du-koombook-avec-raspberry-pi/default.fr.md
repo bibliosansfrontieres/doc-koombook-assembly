@@ -10,7 +10,7 @@ Voici la liste des pièces nécessaires pour assembler un KoomBook:
 | ![](RASPBERRY_PI_3B_PLUS.png) | Carte mère | Raspberry Pi 3 Model B+ | 1 | [LDLC](https://www.ldlc.com/fiche/PB00246555.html) |
 | ![](615c4uY3IEL._SL1407_.jpg) | Stockage système d'exploitation | Samsung microSDHC 16 Go | 1 | [LDLC](http://www.ldlc-pro.com/fiche/PB00163896.html) |
 | ![](P1060117.JPG) | Stockage des données | Crucial BX200 240 Go | 1 | [LDCL](http://www.ldlc-pro.com/fiche/PB00198020.html) |
-| ![](PiJuice.jpg) | Batterie | PiJuice | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00250984.html |
+| ![](PiJuice.jpg) | Batterie | PiJuice | 1 | [LDLC] (https://www.ldlc-pro.com/fiche/PB00250984.html |
 | ![](PWR-CABLE.jpg) | Câble d'alimentation | Pwr-Cable | 1 | [Olimex](https://www.olimex.com/Products/Components/Cables/PWR-CABLE/) |
 | ![](PW03052-40.jpg) | Alimentation USB | PRO POWER  MWUSB3U BLACK  Alimentation AC\/DC | 1 | [Farnell](http://fr.farnell.com/pro-power/mwusb3u-black/alimentation-usb-5v-2-1a-blk-euro/dp/2289559?MER=BN-2289559) |
 | ![](P1060115.JPG) | Câble USB | Usb A Male-Micro B Male, 1m | 1 | [Farnell](http://fr.farnell.com/multicomp/mc000948/cable-usb-2-0-a-micro-b-male-1m/dp/2468266) |
