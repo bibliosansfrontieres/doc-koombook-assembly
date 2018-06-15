@@ -1,6 +1,6 @@
 ---
 title: 'Les composants du KoomBook avec Raspberry Pi'
-media_order: 'RASPBERRY_PI_3B_PLUS.png,615c4uY3IEL._SL1407_.jpg,PiJuice.jpg,Chargeur-RaspberryPi.jpg,481-020.jpg,Adaptateur_Sata_USB.jpg'
+media_order: 'RASPBERRY_PI_3B_PLUS.png,615c4uY3IEL._SL1407_.jpg,PiJuice.jpg,Chargeur-RaspberryPi.jpg,481-020.jpg,Adaptateur_Sata_USB.jpg,909-04.jpg,2354239-40.jpg'
 ---
 
 Voici la liste des pièces nécessaires pour assembler un KoomBook:
