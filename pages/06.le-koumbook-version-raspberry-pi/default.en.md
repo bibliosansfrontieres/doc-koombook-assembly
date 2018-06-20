@@ -1,13 +1,15 @@
 ---
-title: 'Le KoomBook avec Raspberry Pi'
+title: 'The KoomBook with Raspberry Pi'
 ---
 
-Le KoomBook est un appareil fonctionnant sur batterie et diffusant des contenus vidéos, textes, images, cours en ligne, à l'aide d'un hotspot wifi.
+The KoomBook is a battery-operated device that displays content including videos, documents, images and online courses using a WiFi hotspot.
 
-Une interface web intégrée permet à quiconque possédant un ordinateur, une tablette ou un smartphone de s'y connecter et de naviguer à travers les contenus disponible.
+Thanks to an integrated web interface, anyone with a computer, tablet or smartphone can connect to and navigate through the available content.
 
-Cet outil permet à des populations ne disposant d'aucune connexion Internet d'accéder malgré tout à des ressources numériques. Il a par exemple été déployé en Côte d'Ivoire, au Cameroun, au Sénégal, etc.
+This tool allows people to access digital resources in areas where there is otherwise no internet. It has been used in Côte d'Ivoire, Cameroon, Senegal and elsewhere.
 
-[Les ressources numériques installées sur le Koombook](https://github.com/ideascube/ansiblecube) sont issues de projets libres \(wikipedia, kan academy, etc.\) et présentées par un logiciel libre lui aussi, [ideascube](https://github.com/ideascube/ideascube). 
+[The digital resources installed on the Koombook](https://github.com/ideascube/ansiblecube) are the product of open-source projects (such Wikipedia, Khan Academy, etc.) presented using [ideascube](https://github.com/ideascube/ideascube), an open-source software. 
 
-L'objectif de cette documentation est de présenter étape par étape l'assemblage d'un KoomBook
+This guide presents step-by-step instructions on how to assemble a KoomBook.
+
+
