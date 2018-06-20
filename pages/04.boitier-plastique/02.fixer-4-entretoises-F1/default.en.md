@@ -5,8 +5,8 @@ title: 'Attach 4 15-mm Standoffs to the F1 Deck'
 ## Equipment Needed
 
 - F1 deck
-- 4 M3x5 metal flat screws (ø3mm, 5mm long)
-- 4 threaded standoffs (HEX, NYLON 6 FEMALE, 15mm, M3)
+- 4 M3x5 metal flat screws (ø3 mm, 5 mm long)
+- 4 threaded standoffs (HEX, NYLON 6 FEMALE, 15 mm, M3)
 
 ## Assembly
 
