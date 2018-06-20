@@ -3,8 +3,8 @@ title: 'Tin Your Electrical Cables'
 ---
 
 ## Equipment needed
-- 10 cm of ø 0.24mm twisted and coated copper wire (red **AND** black) 
-- 15 cm of ø 0.24mm twisted and coated copper wire (red)
+- 10 cm of ø 0.24 mm twisted and coated copper wire (red **AND** black) 
+- 15 cm of ø 0.24 mm twisted and coated copper wire (red)
 - Wire stripper 
 - Tin
 - Soldering iron
@@ -13,7 +13,7 @@ title: 'Tin Your Electrical Cables'
 
 ## Assembly 
 
-1. Strip 2mm off both ends of each cable.    
+1. Strip 2 mm off both ends of each cable.    
     ![](_MG_5253.JPG)  
 2. Place a bit of tin on the tip of the soldering iron. Heat the stripped end of the wire with the iron. Place a bit of tin on the end while it is still hot so the tin completely covers the wire.    
     ![](_MG_5254.JPG)  
