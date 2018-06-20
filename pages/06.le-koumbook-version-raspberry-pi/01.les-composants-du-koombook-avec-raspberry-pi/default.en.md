@@ -17,7 +17,7 @@ Here is the list of all the pieces necessary to assemble a KoomBook:
 | ![](909-04.jpg) | Ethernet Connector | Panel Mount Ethernet Extension Cable | 1 | [SnootLab](http://snootlab.fr/adafruit/520-cable-rj45-de-montage-en-panneau-fr.html) |
 | ![](2354239-40.jpg) | Micro USB Socket | Dual Micro USB Socket Type AB | 1 | [Farnell](http://fr.farnell.com/amphenol-commercial-products/musb-k152-30/embase-micro-usb-type-ab-traversante/dp/2354239) |
 | ![](P1060110.JPG) | Standoff | HEX NYLON 6 FEMALE 25-mm M3 STANDOFF | 4 | [Farnell](http://fr.farnell.com/tr-fastenings/fahsngffm3-25-6/entretoise-hex-nylon-6-femelle/dp/2480026) |
-| ![](P1060111.JPG) | Standoff | HEX NYLON 6 FEMELLE 15-mm M3 STANDOFF | 6 | [Farnell](http://fr.farnell.com/tr-fastenings/fahsngffm3-15-6/entretoise-hex-nylon-6-femelle/dp/2480024) |
+| ![](P1060111.JPG) | Standoff | HEX NYLON 6 FEMALE 15-mm M3 STANDOFF | 6 | [Farnell](http://fr.farnell.com/tr-fastenings/fahsngffm3-15-6/entretoise-hex-nylon-6-femelle/dp/2480024) |
 | ![](42358728.jpg) | Screws | HEXA M3X5 CURVED HEAD SCREW | 10 | [Farnell](http://fr.farnell.com/tr-fastenings/m35-bhhtmcs100/vis-tete-bombee-hexa-m3x5/dp/1420682) |
 | ![](42358728.jpg) | Screws | HEXA M3X10 CURVED HEAD SCREW | 4 | [Farnell](http://fr.farnell.com/tr-fastenings/m35-bhhtmcs100/vis-tete-bombee-hexa-m3x5/dp/1420682) |
 | ![](2472689-40.jpg) | Screws | PHILIPS HEAD PAN, M3 X 10 mm | 2 | [Farnell](http://fr.farnell.com/duratool/dtrnse-1207-m3-10/assort-vis-tete-pan-philips-m3/dp/2472705) |
