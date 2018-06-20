@@ -15,7 +15,7 @@ Here are the parts needed to assemble a KoomBook:
 | ![](2484233-40.jpg) | Battery | Lithium-Ion, 7800mAh 3.7V | 1 | Farnell\/Ansmann\/[RSonline](http://fr.rs-online.com/web/p/blocs-batteries-lithium/7760872/)\/[Olimex](https://www.olimex.com/Products/Power/BATTERY-LIPO6600mAh/) |
 | ![](PWR-CABLE.jpg) | Power Cable | Pwr-Cable | 1 | [Olimex](https://www.olimex.com/Products/Components/Cables/PWR-CABLE/) |
 | ![](PW03052-40.jpg) | USB Plug | PRO POWER  MWUSB3U BLACK  Power Supply AC\/DC | 1 | [Farnell](http://fr.farnell.com/pro-power/mwusb3u-black/alimentation-usb-5v-2-1a-blk-euro/dp/2289559?MER=BN-2289559) |
-| ![](P1060115.JPG) | USB Cable | Usb A Male-Micro B Male, 1m | 1 | [Farnell](http://fr.farnell.com/multicomp/mc000948/cable-usb-2-0-a-micro-b-male-1m/dp/2468266) |
+| ![](P1060115.JPG) | USB Cable | USB A Male-Micro B Male, 1m | 1 | [Farnell](http://fr.farnell.com/multicomp/mc000948/cable-usb-2-0-a-micro-b-male-1m/dp/2468266) |
 | ![](ALUMINUM-HEATSINK-20x20x6MM.jpg) | Heat Dissipater | Aluminium-Heatsink | 1 | [Olimex](https://www.olimex.com/Products/Components/Misc/ALUMINIUM-HEATSINK-20x20x6MM/) |
 | ![](SATA-CABLE-SET.jpg) | SATA Cables | SATA-CABLE-SET | 1 | [Olimex](https://www.olimex.com/Products/Components/Cables/SATA-CABLE-SET/) |
 | ![](481-020.jpg) | Power Button | Rugged metal pushbutton white LED | 1 | [SnootLab](http://snootlab.fr/lang-en/adafruit/949-rugged-metal-pushbutton-white-led-en.html) |
