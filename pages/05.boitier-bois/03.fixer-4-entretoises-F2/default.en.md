@@ -5,8 +5,8 @@ title: 'Attach 4 20-mm Standoffs to the F2 Deck'
 ## Equipment Needed
 
 * F2 deck
-* 4 M3x10 metal flat screws \(ø3mm, 10mm long\)
-* 4 threaded standoffs \(HEX, NYLON 6 FEMALE, 20mm, M3\)
+* 4 M3x10 metal flat screws \(ø3 mm, 10 mm long\)
+* 4 threaded standoffs \(HEX, NYLON 6 FEMALE, 20 mm, M3\)
 
 ![](_MG_5218.JPG)
 
