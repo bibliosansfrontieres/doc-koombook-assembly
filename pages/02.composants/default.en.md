@@ -11,7 +11,7 @@ Here are the parts needed to assemble a KoomBook:
 | ![ ](A20-OLinuXino-LIME2-1.jpg) | Motherboard | A20-OlinuXIno-LIME2 | 1 | [Olimex](https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXIno-LIME2/open-source-hardware) |
 | ![](MOD-WIFI-R5370-1.jpg) | WiFi Transceiver | Mod-Wifi-R5370 | 2 | [Olimex](https://www.olimex.com/Products/USB-Modules/MOD-WIFI-R5370/) |
 | ![](615c4uY3IEL._SL1407_.jpg) | Operating System Storage | Samsung microSDHC 16 GB | 1 | [LDLC](http://www.ldlc-pro.com/fiche/PB00163896.html) |
-| ![](P1060117.JPG) | Data Storage | Crucial BX200 240 Go | 1 | [LDCL](http://www.ldlc-pro.com/fiche/PB00198020.html) |
+| ![](P1060117.JPG) | Data Storage | Crucial BX200 240 GB | 1 | [LDCL](http://www.ldlc-pro.com/fiche/PB00198020.html) |
 | ![](2484233-40.jpg) | Battery | Lithium-Ion, 7800 mAh 3.7 V | 1 | Farnell\/Ansmann\/[RSonline](http://fr.rs-online.com/web/p/blocs-batteries-lithium/7760872/)\/[Olimex](https://www.olimex.com/Products/Power/BATTERY-LIPO6600mAh/) |
 | ![](PWR-CABLE.jpg) | Power Cable | Pwr-Cable | 1 | [Olimex](https://www.olimex.com/Products/Components/Cables/PWR-CABLE/) |
 | ![](PW03052-40.jpg) | USB Plug | PRO POWER  MWUSB3U BLACK  Power Supply AC\/DC | 1 | [Farnell](http://fr.farnell.com/pro-power/mwusb3u-black/alimentation-usb-5v-2-1a-blk-euro/dp/2289559?MER=BN-2289559) |
