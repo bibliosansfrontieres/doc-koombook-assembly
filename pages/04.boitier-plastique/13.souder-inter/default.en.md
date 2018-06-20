@@ -1,5 +1,5 @@
 ---
-title: 'Weld the Switch'
+title: 'Weld Wires to the Switch'
 ---
 
 ## Equipment Needed
