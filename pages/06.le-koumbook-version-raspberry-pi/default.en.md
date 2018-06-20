@@ -10,6 +10,6 @@ This tool allows people to access digital resources in areas where there is othe
 
 [The digital resources installed on the Koombook](https://github.com/ideascube/ansiblecube) are the product of open-source projects (such Wikipedia, Khan Academy, etc.) presented using [ideascube](https://github.com/ideascube/ideascube), an open-source software. 
 
-This guide presents step-by-step instructions on how to assemble a KoomBook.
+This guide presents step-by-step instructions on how to assemble a KoomBook with Raspberry Pi.
 
 
