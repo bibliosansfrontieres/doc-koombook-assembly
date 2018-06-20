@@ -2,7 +2,7 @@
 title: 'Tin Your Electrical Cables'
 ---
 
-## Equipment needed
+## Equipment Needed
 - 10 cm of ø 0.24 mm twisted and coated copper wire (red **AND** black) 
 - 15 cm of ø 0.24 mm twisted and coated copper wire (red)
 - Wire stripper 
