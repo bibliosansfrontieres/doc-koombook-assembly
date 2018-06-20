@@ -12,7 +12,7 @@ title: 'Fasten the Olimex Card to the F2 deck'
 
  ## Assembly 
  
-1. Place the notches of the Olimex card between the 15mm standoffs with the **heat dissipater facing the disk**. Then screw the 4 plastic screws to the standoffs in order to fasten the card to the deck.   
+1. Place the notches of the Olimex card between the 15-mm standoffs with the **heat dissipater facing the disk**. Then screw the 4 plastic screws to the standoffs in order to fasten the card to the deck.   
     ![](P1090025.jpg) 
     ![](P1090058.jpg) 
 
