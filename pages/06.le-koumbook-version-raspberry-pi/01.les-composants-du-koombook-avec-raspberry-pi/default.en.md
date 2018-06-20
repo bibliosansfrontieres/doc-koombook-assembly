@@ -11,7 +11,7 @@ Here is the list of all the pieces necessary to assemble a KoomBook:
 | ![](615c4uY3IEL._SL1407_.jpg?cropResize=60,60) | Operating System Storage | Samsung 16 GB microSDHC | 1 | [LDLC](http://www.ldlc-pro.com/fiche/PB00163896.html) |
 | ![](DD.jpg?cropResize=60,60) | Data Storage | Seagate BarraCuda Pro 500 GB | 1 | [LDCL](https://www.ldlc-pro.com/fiche/PB00245153.html) |
 | ![](PiJuice.jpg?cropResize=60,60) | Battery | PiJuice | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00250984.html) |
-| ![](Chargeur-RaspberryPi.jpg?cropResize=60,60) | USB Plug | Raspberry Pi 3 Power Supply 5.1V 2.5A Blanc | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00205708.html) |
+| ![](Chargeur-RaspberryPi.jpg?cropResize=60,60) | USB Plug | Raspberry Pi 3 Power Supply 5.1 V 2.5 A White | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00205708.html) |
 | ![](Adaptateur_Sata_USB.jpg?cropResize=60,60) | SATA/USB Adapter | Self-Powered USB 2.0 / SATA 2.5" SSD-HDD Adapter  | 1 | [LDLC](https://www.ldlc-pro.com/fiche/PB00186500.html) |
 | ![](481-020.jpg) | Power Button | White LED Rugged Metal Pushbutton | 1 | [SnootLab](http://snootlab.fr/lang-en/adafruit/949-rugged-metal-pushbutton-white-led-en.html) |
 | ![](909-04.jpg) | Ethernet Connector | Panel Mount Ethernet Extension Cable | 1 | [SnootLab](http://snootlab.fr/adafruit/520-cable-rj45-de-montage-en-panneau-fr.html) |
