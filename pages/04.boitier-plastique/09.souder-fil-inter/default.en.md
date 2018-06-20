@@ -16,11 +16,11 @@ title: 'Weld 2 Wires onto the Olimex Card'
 2. Tin the GND chip located right underneath the switch.   
     ![](_MG_5258.JPG)
 
-3. Weld the 10cm black wire onto the GND chip.    
+3. Weld the 10-cm black wire onto the GND chip.    
     ![](_MG_5259.JPG)  
-10cm black wire welded onto the GND chip.    
+10-cm black wire welded onto the GND chip.    
     ![](_MG_5260.JPG)  
-4. Weld the 10cm red wire onto the **PWR switch** connector. 
+4. Weld the 10-cm red wire onto the **PWR switch** connector. 
    >>>> Weld the red wire onto the first \(+\) connector, not the second \(-\). Make sure the tin does not touch the existing welds.     
     ![](_MG_5261.JPG)  
    >>>> Do not overheat the card components.
